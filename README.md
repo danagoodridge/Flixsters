@@ -25,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://github.com/danagoodridge/Flixsters/blob/master/walkthrough(unit%201%20part%202).gif" width=400><br>
 
 ### Notes
-Describe any challenges encountered while building the app. I had a challenge with doing some of the bonous 
+I had a challenge with doing some of the bonous parts, specifically the adding colour to the ationbar. I wasn't able to follow the instructions effectively.
 
 ### Open-source libraries used
 
